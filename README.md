@@ -95,7 +95,7 @@ Data Cleaning & Structuring
 
 Dashboard Screenshot
 
-([https://github.com/Dejas-Nandha/HR-Analytics-Dashboard-Excel/blob/main/overview.png?raw=true])
+https://github.com/Dejas-Nandha/HR-Analytics-Dashboard-Excel/blob/main/overview.png?raw=true
 
 🎯 Business Insights
 
