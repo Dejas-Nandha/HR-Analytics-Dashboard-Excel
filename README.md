@@ -91,11 +91,11 @@ KPI Cards
 
 Data Cleaning & Structuring
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-Dashboard Screenshot
+*(Dashboard screenshot hosted in this repository)*
 
-https://github.com/Dejas-Nandha/HR-Analytics-Dashboard-Excel/blob/main/overview.png?raw=true
+![HR Dashboard Overview](https://github.com/Dejas-Nandha/HR-Analytics-Dashboard-Excel/blob/main/overview.png?raw=true)
 
 🎯 Business Insights
 
